@@ -3,7 +3,7 @@
 **Aluno:** Antonio Lucas da Costa Pereira
 
 
-Este projeto é a entrega do 7 **Projeto Final**, focado em conectar a aplicação "Biblioteca Pessoal Digital" ao banco de dados PostgreSQL utilizando o ORM **SQLAlchemy** em Python.
+Este projeto é a entrega 7 do **Projeto Final**, focado em conectar a aplicação "Biblioteca Pessoal Digital" ao banco de dados PostgreSQL utilizando o ORM **SQLAlchemy** em Python.
 
 O objetivo principal é demonstrar o mapeamento de tabelas relacionais para classes (orientação a objetos) e realizar operações de CRUD e consultas complexas (JOINs, Filtros e Ordenações) sem a escrita direta de código SQL.
 
